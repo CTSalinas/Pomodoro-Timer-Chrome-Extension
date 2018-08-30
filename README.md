@@ -20,5 +20,5 @@ Usual short break for pomodoro is 5 minutes.
 
 To Be Added
 ===========
-Ability to change time in extension
-Status bar to see how much time is left
+Ability to change time in extension  
+Status bar to see how much time is left  
