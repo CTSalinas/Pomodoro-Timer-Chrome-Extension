@@ -2,7 +2,7 @@ Pomodoro-Timer-Chrome-Extension
 ===============================
 Chrome extension used to manage work time and break time to facilitate productivity.
 
-To add
+To Install
 ======
 - Navigate to Chrome://extensions
 - Turn developer mode on
@@ -17,3 +17,8 @@ Note: Timer runs in miliseconds, so 1 second is 1000ms, 10 seconds is 10000ms, e
 Usual work timer for pomodoro is 25 minutes.  
 Usual long break for pomodoro is 10 minutes.  
 Usual short break for pomodoro is 5 minutes.  
+
+To Be Added
+===========
+Ability to change time in extension
+Status bar to see how much time is left
